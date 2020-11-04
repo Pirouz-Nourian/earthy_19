@@ -1,0 +1,2 @@
+# Bubble diagrams and REL-Charts
+A bubble diagram is set up to understand the relationships between the shops and the logistics within the bazaar and the relationship between the walkway and the shop program. Therefore, three levels of detail for the bazaar logistic lay-out and three different clusters of programs in the bazaar are analyzed. The bubble diagram is set up with the help of ‘Space Syntax’ in Grasshopper, Rhino.
