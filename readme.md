@@ -42,10 +42,6 @@ tackled via computation.
                 <a href="mailto:Dirk%20Visser%20-%20BK">Ir. Dirk Rinze Visser</a> (Buro Happold &amp; TU Delft, Structural Design &amp; Mechanics -DRZ)
             </td>
         </tr>
-        <tr>
-            <td>Responsible Instructor</td>
-            <td><a href="mailto:i.s.sariyildiz@tudelft.nl">Prof. Dr. Ir. Sevil Sariyildiz</a></td>
-        </tr>
     </tbody>
     <thead>
         <tr class="header">
