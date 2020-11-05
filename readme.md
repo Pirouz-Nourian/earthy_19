@@ -25,10 +25,7 @@ tackled via computation.
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Responsible Instructor</td>
-            <td><a href="mailto:i.s.sariyildiz@tudelft.nl">Prof. Dr. Ir. Sevil Sariyildiz</a></td>
-        </tr>
+        
         <tr>
             <td>Course Coordinator</td>
             <td><a href="mailto:p.nourian@tudelft.nl">Dr. Ir. P. Nourian</a></td>
@@ -44,6 +41,10 @@ tackled via computation.
                 <a href="mailto:F.R.Schnater@tudelft.nl">Ir. Frank Schnater</a> (TU Delft, Design of Construction, FSN)<br>
                 <a href="mailto:Dirk%20Visser%20-%20BK">Ir. Dirk Rinze Visser</a> (Buro Happold &amp; TU Delft, Structural Design &amp; Mechanics -DRZ)
             </td>
+        </tr>
+        <tr>
+            <td>Responsible Instructor</td>
+            <td><a href="mailto:i.s.sariyildiz@tudelft.nl">Prof. Dr. Ir. Sevil Sariyildiz</a></td>
         </tr>
     </tbody>
     <thead>
