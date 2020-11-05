@@ -54,7 +54,7 @@ tackled via computation.
     <tbody>
         <tr>
             <td>
-                <a href="">Adobe CC</a>
+                <a href="https://github.com/shervinazadi/earthy_19/tree/master/Adobe_CC">Adobe CC</a>
             </td>
             <td>
                 Aditya Parulekar<br>
@@ -67,7 +67,7 @@ tackled via computation.
         </tr>
         <tr>
             <td>
-                <a href="">Bazaar</a>
+                <a href="https://github.com/shervinazadi/earthy_19/tree/master/Bazaar">Bazaar</a>
             </td>
             <td>
                 Angela Smit <br>
@@ -80,7 +80,7 @@ tackled via computation.
         </tr>
         <tr>
             <td>
-                <a href="">Bustan</a>
+                <a href="https://github.com/shervinazadi/earthy_19/tree/master/Bustan">Bustan</a>
             </td>
             <td>
                 Yarai Zenteno <br>
@@ -93,7 +93,7 @@ tackled via computation.
         </tr>
         <tr>
             <td>
-                <a href="">Jannat Al-Tohr</a>
+                <a href="https://github.com/shervinazadi/earthy_19/tree/master/Jannat_Al_Tohr">Jannat Al-Tohr</a>
             </td>
             <td>
                 Nikoleta Sidiropoulou <br>
@@ -106,7 +106,7 @@ tackled via computation.
         </tr>
         <tr>
             <td>
-                <a href="">Modulabity</a>
+                <a href="https://github.com/shervinazadi/earthy_19/tree/master/Modulabity">Modulabity</a>
             </td>
             <td>
                 Alessandro Passoni<br>
@@ -118,7 +118,7 @@ tackled via computation.
         </tr>
         <tr>
             <td>
-                <a href="">Sand Castle</a>
+                <a href="https://github.com/shervinazadi/earthy_19/tree/master/Sand_Castle">Sand Castle</a>
             </td>
             <td>
                 Konstantina Chouliara <br>
@@ -131,7 +131,7 @@ tackled via computation.
         </tr>
         <tr>
             <td>
-                <a href="">Women for Women</a>
+                <a href="https://github.com/shervinazadi/earthy_19/tree/master/Women_for_Women">Women for Women</a>
             </td>
             <td>
                 Amelia Tapia <br>
