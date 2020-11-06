@@ -152,15 +152,10 @@ tackled via computation.
 ## Learning goals
 
 After finishing this course, the student is expected to be able:
--   to analyse the urban context, social-spatial structure, and
-    vernacular traditions and develop an idea and a concept for the
-    design responding to the context.
--   to computationally design, utilize algorithms and underpin the
-    architectural configuration of a settlement suitable for
-    mass-customization in a circular construction process with low-cost
-    materials, local labour, and low-tech construction techniques.
--   to optimize complex geometric forms for a desired structural
-    performance, given a local material and functional requirements.
+
+- to analyse the urban context, social-spatial structure, and vernacular traditions and develop an idea and a concept for the design responding to the context.
+- to computationally design, utilize algorithms and underpin the architectural configuration of a settlement suitable for mass-customization in a circular construction process with low-cost materials, local labour, and low-tech construction techniques.
+- to optimize complex geometric forms for a desired structural performance, given a local material and functional requirements.
 
 ## Design Challenge
 
@@ -176,15 +171,14 @@ buildings to be configured and designed, each of which is assigned to a
 single group. The entire class is responsible for the configuration of
 \[one district of\] the site.
 
-
 ## Activities and Deliverables
 
-* **A1_Planning**: a master plan for the site is produced by the whole class by super imposing multiple spatial analyses and ideas for improvements; 
+* **A1_Planning**: a master plan for the site is produced by the whole class by super imposing multiple spatial analyses and ideas for improvements;
 * **A2_Configuring**: each group composes a programme of requirement consistent with the master plan and an idea for the building with societal added value; specifies the intended user experience of the building in terms of a graph (bubble-chart) articulating the connections between the ‘floor spaces’; and proposes a 3D layout based on this bubble chart.
-* **A3_Shaping**: given the 3D configuration of floor spaces and their intended heights, the group is to propose a basic tessellation of the ‘ceiling spaces’ into a mesh, dynamically relax that mesh to get an idealised shell structure geometry, and propose a topological system of masonry ceiling structures to function as a spatial structure in accordance with the idealized structure. 
-* **A4_Structuring**: given the found form in the previous step and the proposed tessellation, the group is to validate the discrete spatial structure consisting of blocks to ensure that it is constructible, structurally sound in the sense of being a compression-only structure, and safe during and after construction. 
-* **Final**: 
-  - A repository of codes and models of the project 
+* **A3_Shaping**: given the 3D configuration of floor spaces and their intended heights, the group is to propose a basic tessellation of the ‘ceiling spaces’ into a mesh, dynamically relax that mesh to get an idealised shell structure geometry, and propose a topological system of masonry ceiling structures to function as a spatial structure in accordance with the idealized structure.
+* **A4_Structuring**: given the found form in the previous step and the proposed tessellation, the group is to validate the discrete spatial structure consisting of blocks to ensure that it is constructible, structurally sound in the sense of being a compression-only structure, and safe during and after construction.
+* **Final**:
+  - A repository of codes and models of the project
   - A report of the project
   - A presentation about your design process (an update on midterm presentation)
   - An animation of the \[interactive\] computational design process.
@@ -205,15 +199,14 @@ victims of natural disasters).
 
 The subjects taught in this course are:
 
--   Linear Algebra, Calculus and Differential Geometry
--   Geometry, Topology, and Graph Theory
--   Computer Graphics (Boundary Representations and Raster
-    Representations)
--   Finite Element Analysis
--   Programming in Python
--   Material Science of Earth, Material Combinations
--   Structural Design with Earth
--   Earth Architecture & Architectural Configuration (a.k.a. space
+- Linear Algebra, Calculus and Differential Geometry
+- Geometry, Topology, and Graph Theory
+- Computer Graphics (Boundary Representations and Raster Representations)
+- Finite Element Analysis
+- Programming in Python
+- Material Science of Earth, Material Combinations
+- Structural Design with Earth
+- Earth Architecture & Architectural Configuration (a.k.a. space
     planning)
 
 ### Practice
@@ -222,11 +215,10 @@ The Earthy Studio is focused on devising computational methods,
 techniques and tools for analysis, synthesis, form-generation, and
 optimization in:
 
--   Configuring: planning the arrangement of a settlement for a
-    displaced community considering accessibility of amenities, and
-    functional layout of communal/public buildings;
--   Forming: devising the 3D shape of the buildings based on their
-    functional configuration, climatic functionality, and structural
-    performance;
--   Structuring: designing the construction process of an earth building
-    for a zero-waste circular construction process
+- Configuring: planning the arrangement of a settlement for a displaced community considering accessibility of amenities, and functional layout of communal/public buildings;
+- Forming: devising the 3D shape of the buildings based on their functional configuration, climatic functionality, and structural performance;
+- Structuring: designing the construction process of an earth building for a zero-waste circular construction process
+
+### License
+
+This work is dual-licensed under MIT and 4.0-CC-BY. The Software is licensed under MIT and all other contents are licensed under 4.0-CC-BY. Each student project has different authors, please refer to AUTHOR file for detailed list of authors per project.
