@@ -26,26 +26,31 @@ tackled via computation.
     </thead>
     <tbody>
         <tr>
-            <td>Responsible Instructor</td>
-            <td><a href="mailto:i.s.sariyildiz@tudelft.nl">Prof. Dr. Ir. Sevil Sariyildiz</a></td>
-        </tr>
-        <tr>
             <td>Course Coordinator</td>
             <td><a href="mailto:p.nourian@tudelft.nl">Dr. Ir. P. Nourian</a></td>
         </tr>
         <tr>
             <td>Instructors</td>
             <td>
-                <a href="mailto:i.s.sariyildiz@tudelft.nl">Prof. Dr. Ir. Sevil Sariyildiz</a> (TU Delft, Design Informatics, SSZ)<br>
-                <a href="mailto:FAVeer@tudelft.nl">Dr. Ir. Fred Veer</a> (TU Delft, Structural Design &amp; Mechanics-FVR)<br>
                 <a href="mailto:p.nourian@tudelft.nl">Dr. Ir. Pirouz Nourian</a> (TU Delft, Design Informatics, PZN)<br>
                 <a href="mailto:S.Azadi-1@tudelft.nl">Ir. Shervin Azadi</a> (TU Delft, Design Informatics, SAZ)<br>
                 <a href="mailto:J.J.J.G.Hoogenboom@tudelft.nl">Ir. Hans Hoogenboom</a> (TU Delft, Design Informatics-HHG)<br>
                 <a href="mailto:F.R.Schnater@tudelft.nl">Ir. Frank Schnater</a> (TU Delft, Design of Construction, FSN)<br>
-                <a href="mailto:Dirk%20Visser%20-%20BK">Ir. Dirk Rinze Visser</a> (Buro Happold &amp; TU Delft, Structural Design &amp; Mechanics -DRZ)
+                <a href="mailto:Dirk%20Visser%20-%20BK">Ir. Dirk Rinze Visser</a> (Buro Happold &amp; TU Delft, Structural Design &amp; Mechanics -DRZ)<br>
+                <a href="mailto:FAVeer@tudelft.nl">Dr. Ir. Fred Veer</a> (TU Delft, Structural Design &amp; Mechanics-FVR)<br>
             </td>
         </tr>
+        <tr>
+            <td>Responsible</td>
+            <td><a href="mailto:i.s.sariyildiz@tudelft.nl">Prof. Dr. Ir. Sevil Sariyildiz</a> (TU Delft, Design Informatics, SSZ)</td>
+        </tr>
     </tbody>
+    <thead>
+        <tr class="header">
+            <th colspan="2">Students</th>
+        </tr>
+    </thead>
+    <tbody>
     <thead>
         <tr class="header">
             <th colspan="2">Students</th>
