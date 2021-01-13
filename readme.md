@@ -7,7 +7,7 @@ Citation Info:
 
 <img src="_course_info/image1.png"/>
 
-[![IMAGE ALT TEXT HERE](img src="_course_info/image1.png")](https://www.youtube.com/watch?v=pmEX1Pj_q08&feature=youtu.be)
+[![IMAGE ALT TEXT HERE](_course_info/image1.png)](https://www.youtube.com/watch?v=pmEX1Pj_q08&feature=youtu.be)
 
 ## Introduction
 
