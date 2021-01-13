@@ -7,6 +7,9 @@ Citation Info:
 
 <img src="_course_info/image1.png"/>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pmEX1Pj_q08" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Introduction
 
 EARTHY is a master’s level design studio with the aim of designing and
